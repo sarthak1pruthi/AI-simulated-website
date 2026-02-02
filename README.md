@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Simulated Website
 
-## Getting Started
+AI Simulated Website is a modern React-based web application designed to demonstrate interactive, component-driven frontend development. The project focuses on clean UI structure, responsiveness, and scalable design patterns commonly used in professional web applications.
 
-First, run the development server:
+---
+
+## Project Overview
+
+The purpose of this project is to simulate an AI-inspired web experience through a structured and visually engaging interface. It highlights strong fundamentals in frontend engineering, including modular development, organized file architecture, and modern UI workflows.
+
+---
+
+## Technologies Used
+
+- React.js  
+- JavaScript (ES6+)  
+- CSS / Utility-Based Styling  
+- Node.js and npm  
+- Component-Based UI Architecture  
+
+---
+
+## Key Features
+
+- Responsive layout optimized for desktop and mobile devices  
+- Reusable and scalable UI component structure  
+- Clean project organization following modern React practices  
+- Designed as a capstone-level portfolio application  
+- Ready for deployment on platforms such as Vercel or Netlify  
+
+---
+
+## Repository Structure
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+AI-simulated-website/
+│
+├── app/                # Application pages and routes
+├── components/ui/      # Shared and reusable UI components
+├── public/             # Static assets
+├── lib/                # Helper libraries and internal logic
+├── utils/              # Utility functions
+└── README.md           # Project documentation
+Getting Started
+To run this project locally, follow the steps below.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Clone the repository
+bash
+Copy code
+git clone https://github.com/sarthak1pruthi/AI-simulated-website.git
+2. Navigate into the project directory
+bash
+Copy code
+cd AI-simulated-website
+3. Install dependencies
+bash
+Copy code
+npm install
+4. Start the development server
+bash
+Copy code
+npm start
+The application will run at:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+arduino
+Copy code
+http://localhost:3000
+Deployment
+This project can be deployed using services such as:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Vercel
 
-## Learn More
+Netlify
 
-To learn more about Next.js, take a look at the following resources:
+GitHub Pages
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Deployment configuration can be added as needed for a live portfolio demo.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Author
+Sarthak Pruthi
+GitHub: https://github.com/sarthak1pruthi
