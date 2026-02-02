@@ -41,6 +41,7 @@ AI-simulated-website/
 ├── lib/                # Helper libraries and internal logic
 ├── utils/              # Utility functions
 └── README.md           # Project documentation
+```
 Getting Started
 To run this project locally, follow the steps below.
 
