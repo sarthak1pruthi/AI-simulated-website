@@ -42,41 +42,51 @@ AI-simulated-website/
 ├── utils/              # Utility functions
 └── README.md           # Project documentation
 ```
-Getting Started
+
+---
+
+## Getting Started
+
 To run this project locally, follow the steps below.
 
 1. Clone the repository
-bash
-Copy code
+```bash
+
 git clone https://github.com/sarthak1pruthi/AI-simulated-website.git
+```
 2. Navigate into the project directory
-bash
-Copy code
+```bash
+
 cd AI-simulated-website
+```
 3. Install dependencies
-bash
-Copy code
+```bash
+
 npm install
+```
 4. Start the development server
-bash
-Copy code
+```bash
+
 npm start
+```
 The application will run at:
 
-arduino
-Copy code
+```arduino
 http://localhost:3000
-Deployment
+```
+
+## Deployment
 This project can be deployed using services such as:
 
-Vercel
+- Vercel
 
-Netlify
+- Netlify
 
-GitHub Pages
+- GitHub Pages
 
 Deployment configuration can be added as needed for a live portfolio demo.
 
-Author
+## Author
+
 Sarthak Pruthi
 GitHub: https://github.com/sarthak1pruthi
